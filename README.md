@@ -5,6 +5,7 @@ It is written in aura component.
 Got to **demo-pictures** folder to see screenshots 
 > demo-pictures
 >> ContactPage app
+
 >> weather app integration
 
 -----------------------------------------------------------------------------------------------------
